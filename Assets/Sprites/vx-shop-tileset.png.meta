@@ -1,0 +1,2383 @@
+fileFormatVersion: 2
+guid: 98e8f19eab3f68b40ba4411ac18d2358
+timeCreated: 1477286431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vx-shop-tileset_0
+    21300002: vx-shop-tileset_1
+    21300004: vx-shop-tileset_2
+    21300006: vx-shop-tileset_3
+    21300008: vx-shop-tileset_4
+    21300010: vx-shop-tileset_5
+    21300012: vx-shop-tileset_6
+    21300014: vx-shop-tileset_7
+    21300016: vx-shop-tileset_8
+    21300018: vx-shop-tileset_9
+    21300020: vx-shop-tileset_10
+    21300022: vx-shop-tileset_11
+    21300024: vx-shop-tileset_12
+    21300026: vx-shop-tileset_13
+    21300028: vx-shop-tileset_14
+    21300030: vx-shop-tileset_15
+    21300032: vx-shop-tileset_16
+    21300034: vx-shop-tileset_17
+    21300036: vx-shop-tileset_18
+    21300038: vx-shop-tileset_19
+    21300040: vx-shop-tileset_20
+    21300042: vx-shop-tileset_21
+    21300044: vx-shop-tileset_22
+    21300046: vx-shop-tileset_23
+    21300048: vx-shop-tileset_24
+    21300050: vx-shop-tileset_25
+    21300052: vx-shop-tileset_26
+    21300054: vx-shop-tileset_27
+    21300056: vx-shop-tileset_28
+    21300058: vx-shop-tileset_29
+    21300060: vx-shop-tileset_30
+    21300062: vx-shop-tileset_31
+    21300064: vx-shop-tileset_32
+    21300066: vx-shop-tileset_33
+    21300068: vx-shop-tileset_34
+    21300070: vx-shop-tileset_35
+    21300072: vx-shop-tileset_36
+    21300074: vx-shop-tileset_37
+    21300076: vx-shop-tileset_38
+    21300078: vx-shop-tileset_39
+    21300080: vx-shop-tileset_40
+    21300082: vx-shop-tileset_41
+    21300084: vx-shop-tileset_42
+    21300086: vx-shop-tileset_43
+    21300088: vx-shop-tileset_44
+    21300090: vx-shop-tileset_45
+    21300092: vx-shop-tileset_46
+    21300094: vx-shop-tileset_47
+    21300096: vx-shop-tileset_48
+    21300098: vx-shop-tileset_49
+    21300100: vx-shop-tileset_50
+    21300102: vx-shop-tileset_51
+    21300104: vx-shop-tileset_52
+    21300106: vx-shop-tileset_53
+    21300108: vx-shop-tileset_54
+    21300110: vx-shop-tileset_55
+    21300112: vx-shop-tileset_56
+    21300114: vx-shop-tileset_57
+    21300116: vx-shop-tileset_58
+    21300118: vx-shop-tileset_59
+    21300120: vx-shop-tileset_60
+    21300122: vx-shop-tileset_61
+    21300124: vx-shop-tileset_62
+    21300126: vx-shop-tileset_63
+    21300128: vx-shop-tileset_64
+    21300130: vx-shop-tileset_65
+    21300132: vx-shop-tileset_66
+    21300134: vx-shop-tileset_67
+    21300136: vx-shop-tileset_68
+    21300138: vx-shop-tileset_69
+    21300140: vx-shop-tileset_70
+    21300142: vx-shop-tileset_71
+    21300144: vx-shop-tileset_72
+    21300146: vx-shop-tileset_73
+    21300148: vx-shop-tileset_74
+    21300150: vx-shop-tileset_75
+    21300152: vx-shop-tileset_76
+    21300154: vx-shop-tileset_77
+    21300156: vx-shop-tileset_78
+    21300158: vx-shop-tileset_79
+    21300160: vx-shop-tileset_80
+    21300162: vx-shop-tileset_81
+    21300164: vx-shop-tileset_82
+    21300166: vx-shop-tileset_83
+    21300168: vx-shop-tileset_84
+    21300170: vx-shop-tileset_85
+    21300172: vx-shop-tileset_86
+    21300174: vx-shop-tileset_87
+    21300176: vx-shop-tileset_88
+    21300178: vx-shop-tileset_89
+    21300180: vx-shop-tileset_90
+    21300182: vx-shop-tileset_91
+    21300184: vx-shop-tileset_92
+    21300186: vx-shop-tileset_93
+    21300188: vx-shop-tileset_94
+    21300190: vx-shop-tileset_95
+    21300192: vx-shop-tileset_96
+    21300194: vx-shop-tileset_97
+    21300196: vx-shop-tileset_98
+    21300198: vx-shop-tileset_99
+    21300200: vx-shop-tileset_100
+    21300202: vx-shop-tileset_101
+    21300204: vx-shop-tileset_102
+    21300206: vx-shop-tileset_103
+    21300208: vx-shop-tileset_104
+    21300210: vx-shop-tileset_105
+    21300212: vx-shop-tileset_106
+    21300214: vx-shop-tileset_107
+    21300216: vx-shop-tileset_108
+    21300218: vx-shop-tileset_109
+    21300220: vx-shop-tileset_110
+    21300222: vx-shop-tileset_111
+    21300224: vx-shop-tileset_112
+    21300226: vx-shop-tileset_113
+    21300228: vx-shop-tileset_114
+    21300230: vx-shop-tileset_115
+    21300232: vx-shop-tileset_116
+    21300234: vx-shop-tileset_117
+    21300236: vx-shop-tileset_118
+    21300238: vx-shop-tileset_119
+    21300240: vx-shop-tileset_120
+    21300242: vx-shop-tileset_121
+    21300244: vx-shop-tileset_122
+    21300246: vx-shop-tileset_123
+    21300248: vx-shop-tileset_124
+    21300250: vx-shop-tileset_125
+    21300252: vx-shop-tileset_126
+    21300254: vx-shop-tileset_127
+    21300256: vx-shop-tileset_128
+    21300258: vx-shop-tileset_129
+    21300260: vx-shop-tileset_130
+    21300262: vx-shop-tileset_131
+    21300264: vx-shop-tileset_132
+    21300266: vx-shop-tileset_133
+    21300268: vx-shop-tileset_134
+    21300270: vx-shop-tileset_135
+    21300272: vx-shop-tileset_136
+    21300274: vx-shop-tileset_137
+    21300276: vx-shop-tileset_138
+    21300278: vx-shop-tileset_139
+    21300280: vx-shop-tileset_140
+    21300282: vx-shop-tileset_141
+    21300284: vx-shop-tileset_142
+    21300286: vx-shop-tileset_143
+    21300288: vx-shop-tileset_144
+    21300290: vx-shop-tileset_145
+    21300292: vx-shop-tileset_146
+    21300294: vx-shop-tileset_147
+    21300296: vx-shop-tileset_148
+    21300298: vx-shop-tileset_149
+    21300300: vx-shop-tileset_150
+    21300302: vx-shop-tileset_151
+    21300304: vx-shop-tileset_152
+    21300306: vx-shop-tileset_153
+    21300308: vx-shop-tileset_154
+    21300310: vx-shop-tileset_155
+    21300312: vx-shop-tileset_156
+    21300314: vx-shop-tileset_157
+    21300316: vx-shop-tileset_158
+    21300318: vx-shop-tileset_159
+    21300320: vx-shop-tileset_160
+    21300322: vx-shop-tileset_161
+    21300324: vx-shop-tileset_162
+    21300326: vx-shop-tileset_163
+    21300328: vx-shop-tileset_164
+    21300330: vx-shop-tileset_165
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vx-shop-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 484
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 491
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 483
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 487
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 488
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 499
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 488
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 490
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 484
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 484
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 484
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 484
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 480
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 452
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 450
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 458
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 454
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 454
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 460
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 467
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 459
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 457
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 450
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 454
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 452
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 452
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 452
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 452
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 453
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 455
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 455
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 419
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 418
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 419
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 420
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 431
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 422
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 112
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 419
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 415
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 396
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 388
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 386
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 392
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 387
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 384
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 391
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 388
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 393
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 389
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 388
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 389
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 352
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 352
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 352
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 354
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 357
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 352
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 352
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 352
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 353
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 352
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 324
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 324
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 324
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_80
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 307
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 307
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_82
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 307
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_83
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 309
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 310
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 292
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 291
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_90
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 298
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_91
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 288
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 262
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_96
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_100
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_101
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 259
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_102
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 259
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_103
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 261
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 262
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 229
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 234
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 232
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 229
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 229
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 226
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 226
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_112
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 227
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 224
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_114
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 226
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_115
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 226
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_116
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 226
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_117
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 226
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_119
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 203
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_120
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 203
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_122
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 199
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 205
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_125
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 195
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_126
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_127
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_128
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_129
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_130
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_131
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_132
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 194
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 168
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_135
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_136
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_137
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_138
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 167
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_139
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 161
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_140
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 172
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_141
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_142
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 158
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_144
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 164
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_145
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_146
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 164
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_147
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 164
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_149
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 133
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_153
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 152
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_156
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_159
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_160
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 99
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_161
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 448
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_163
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 64
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_164
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 70
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vx-shop-tileset_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
